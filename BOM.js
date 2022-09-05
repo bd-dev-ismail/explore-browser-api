@@ -11,5 +11,6 @@ const openAlert = () =>{
      }
 };
 const openPromt = () =>{
-    prompt()
+    confirm('Are You Coming on Home?')
+    // prompt()
 }
